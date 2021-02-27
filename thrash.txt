@@ -4,5 +4,6 @@ Slayer
 Overkill
 Testament
 Anthrax
+Exodus
 Kreator
 Sodom
